@@ -13,7 +13,7 @@ buildscript {
     }
 }
 
-version "0.20160314.002"
+version "0.20160315.001"
 group "ruledemo"
 
 apply plugin:"eclipse"
